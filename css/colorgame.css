@@ -1,0 +1,11 @@
+div.container {
+    align-content: center;
+}
+
+div.jumbotron {
+    background-color: aquamarine;
+}
+
+.center {
+    text-align: center;
+}

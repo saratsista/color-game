@@ -1,2 +1,2 @@
 # color-game
-Project from Web Development course
+Project from Udemy's Web Development course
