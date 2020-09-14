@@ -1,11 +1,13 @@
-div.container {
-    align-content: center;
-}
-
 div.jumbotron {
     background-color: aquamarine;
+    /* padding: 0rem; */
+    margin-bottom: 0rem;
 }
 
 .center {
     text-align: center;
+}
+
+.border {
+    border: brown;
 }
