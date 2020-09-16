@@ -11,3 +11,8 @@ div.jumbotron {
 .border {
     border: brown;
 }
+
+.nav {
+    padding-left: 10rem;
+    padding-right: 12rem;
+}
