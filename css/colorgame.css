@@ -13,6 +13,26 @@ div.jumbotron {
 }
 
 .nav {
-    padding-left: 10rem;
-    padding-right: 12rem;
+    padding-left: 7rem;
+    padding-right: 7rem;
+}
+
+.btn {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+#colors1 {
+    margin-block: 2rem;
+}
+
+
+#colors2 {
+    margin-block: 2rem;
+}
+
+.row {
+    align-items: center;
 }
